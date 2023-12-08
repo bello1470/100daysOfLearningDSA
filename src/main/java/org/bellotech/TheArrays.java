@@ -1,10 +1,10 @@
 package org.bellotech;
+<<<<<<< HEAD
 import java.util.*;
 
 public class TheArrays {
     public static void main(String[] args) {
 
-       /*
        //empty array with 5 spaces(5 index).
         String [] colors = new String[5];
         //adding element inside using index
@@ -15,8 +15,6 @@ public class TheArrays {
          System.out.println(colors[1]);
        }
         System.out.println(colors[1]);
-        */
-/*
 
         // STACK
         Stack<String> Game = new Stack<String>();
@@ -32,11 +30,13 @@ public class TheArrays {
         System.out.println(Game);
 
 
-*/
 
 
 
 
 
     }
+
+
+
 }
