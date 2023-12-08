@@ -1,0 +1,30 @@
+[33mcommit 9d26f6d27a191365710eac0a84ce1f65f1c3dbed[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: a01b1f8 f67b6e3
+Author: bello1470 <126983812+bello1470@users.noreply.github.com>
+Date:   Fri Dec 8 14:42:47 2023 +0000
+
+    Resolve conflicts in TheArrays.java and pom.xml
+
+[33mcommit a01b1f8ec52826deccffc61a6532069536d227fc[m
+Author: bello1470 <126983812+bello1470@users.noreply.github.com>
+Date:   Fri Dec 8 14:04:00 2023 +0000
+
+    Sorting day of Commits
+
+[33mcommit 7fc4f7af7338edd4e3c6dd7207a6e13f18fd15d7[m
+Author: bello1470 <126983812+bello1470@users.noreply.github.com>
+Date:   Thu Dec 7 14:58:39 2023 +0000
+
+    Second day of Commits
+
+[33mcommit 6c56a796004b960792eab5013671c3d1a8626bbf[m
+Author: bello1470 <126983812+bello1470@users.noreply.github.com>
+Date:   Wed Dec 6 09:07:56 2023 +0000
+
+    Second day of Commits
+
+[33mcommit f67b6e3a42be3b67cd3d26ed636b940c3f767e0e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31m100daysOfLearningDSA/master[m[33m)[m
+Author: bello1470 <126983812+bello1470@users.noreply.github.com>
+Date:   Wed Dec 6 09:07:56 2023 +0000
+
+    First day of Commits
