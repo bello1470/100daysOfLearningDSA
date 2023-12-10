@@ -9,6 +9,10 @@ public class QuickSort {
         int size = arr.length;
 
         quickSort(arr, 0, size - 1);
+
+        for (int num : arr){
+            System.out.print(num  + " " );
+        }
     }
 
     private static void quickSort(int[] arr,int low, int high) {
