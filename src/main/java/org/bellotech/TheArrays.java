@@ -1,5 +1,5 @@
 package org.bellotech;
-<<<<<<< HEAD
+
 import java.util.*;
 
 public class TheArrays {
