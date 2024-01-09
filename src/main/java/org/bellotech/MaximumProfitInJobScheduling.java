@@ -5,7 +5,7 @@ import java.util.TreeMap;
 public class MaximumProfitInJobScheduling {
 
 
-    class Solution {
+
         public int jobScheduling(int[] startTime, int[] endTime, int[] profit) {
             int n = startTime.length;
             Job[] jobs = new Job[n];
@@ -66,4 +66,4 @@ public class MaximumProfitInJobScheduling {
             }
         }
     }
-}
+
