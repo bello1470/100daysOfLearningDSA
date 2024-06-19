@@ -20,7 +20,7 @@ public class MaxNumber {
         for (int i = 1; i < arr.length; i++) {
             if ( arr[i] > maxVal) {
                 maxVal = arr[i];
-
+/////////////////
             }
 
         }
